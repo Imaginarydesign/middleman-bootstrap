@@ -1,0 +1,11 @@
+humanstxt.org/
+
+# TEAM
+
+  Developer -- @imaginarydyesign
+
+# TECHNOLOGY
+
+  Middleman, SCSS
+  Bootstrap, jQuery, Livereload, Autoprefixer
+  rbenv, ruby-build, nodejs, bundler
